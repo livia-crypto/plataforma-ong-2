@@ -1,0 +1,9 @@
+/* css/estilo.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+@import 'reset.css';
+@import 'variables.css';
+@import 'layout.css';
+@import 'components.css';
+@import 'navbar.css';
+@import 'utilities.css';
